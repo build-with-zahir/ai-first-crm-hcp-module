@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-First CRM HCP Module
 
 Full-stack assignment implementation for an AI-first Healthcare Professional (HCP) CRM "Log Interaction" screen.
@@ -119,3 +120,7 @@ pytest
 cd ../frontend
 npm run build
 ```
+=======
+# ai-first-crm-hcp-module
+AI-First CRM HCP Module built with React, Redux Toolkit, FastAPI, LangGraph and Groq LLM.
+>>>>>>> 5f1e489f1ff91e962eadbfe424b57ea6f37e96c8
